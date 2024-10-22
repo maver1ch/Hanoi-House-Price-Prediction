@@ -1,5 +1,5 @@
 
-*****Hanoi Real Estate Price Prediction using Crawled Data*****
+##### Hanoi Real Estate Price Prediction using Crawled Data
 
 This is my personal project to build a predictive model for real estate prices by crawling data from batdongsan.com,  cleaning, preprocessing, visualizing and applying machine learning models for evaluation.
 
