@@ -1,5 +1,5 @@
 
-**Hanoi Real Estate Price Prediction using Crawled Data**
+*****Hanoi Real Estate Price Prediction using Crawled Data*****
 
 This is my personal project to build a predictive model for real estate prices by crawling data from batdongsan.com,  cleaning, preprocessing, visualizing and applying machine learning models for evaluation.
 
@@ -7,7 +7,7 @@ This is my personal project to build a predictive model for real estate prices b
 
 In this project, I crawled data from [batdongsan.com.vn](https://batdongsan.com.vn) using Selenium. The main objective is to apply machine learning models to predict real estate prices.
 
-### Main Steps Involved:
+## Main Steps Involved:
 
 - **Data Crawling**: Using Selenium to crawl real estate listings.
 - **Data Preprocessing**: Cleaning and organizing raw data using various Python libraries (e.g., Pandas, Regex).
