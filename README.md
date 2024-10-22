@@ -13,7 +13,7 @@ In this project, I crawled data from [batdongsan.com.vn](https://batdongsan.com.
 - **Data Preprocessing**: Cleaning and organizing raw data using various Python libraries (e.g., Pandas, Regex).
 - **Modeling**: Using machine learning models (e.g., Random Forest, Decision Tree) to predict real estate prices.
 - **Data Visualization**: Using libraries like Matplotlib and Seaborn to visualize trends and distributions in the real estate data, such as location-based price trends, and correlations between property features.
-- **Evaluation**: Assessing the models' performance using metrics like RMSE and MAE.
+- **Evaluation**: Assessing the models' performance using metrics like MSE and MAE.
 
 
 ### Limitations and Future Work
